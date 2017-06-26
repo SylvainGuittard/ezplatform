@@ -84,6 +84,6 @@ variables:
         DATABASE_DRIVER: 'pdo_mysql'
         DATABASE_HOST: 'database.internal'
         DATABASE_PORT: 3306
-        DATABASE_NAME: main
-        DATABASE_USER: user
+        DATABASE_NAME: 'main'
+        DATABASE_USER: 'user'
         DATABASE_PASSWORD: ''
